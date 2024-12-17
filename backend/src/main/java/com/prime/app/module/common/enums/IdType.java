@@ -1,0 +1,5 @@
+package com.prime.app.module.common.enums;
+
+public enum IdType {
+    USER,USER_ROLE, CLIENT, COMPANY, PRODUCT, PRODUCT_CATEGORY, MILK_COLLECTION, LOAN_COLLECTION,PAYMENT_PROCESS,ANIMAL_FOOD,BANK
+}
